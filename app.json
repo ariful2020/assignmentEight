@@ -1,0 +1,32 @@
+
+{
+"Student" : [
+        {
+         "Name"    : "Ariful Islam",
+         "Age"     : 36,
+         "Skill"   : "Js",
+         "Ditrics" :"Sirajganj"
+        
+        }
+],
+"teacher" : [
+    {
+        "Name"     :"Ariful Islam",
+        "Age"      : 26,
+        "Skill"    : "Python",
+        "Ditrics"  :"Sirajganj"
+    }
+],
+
+"devs" : [
+    {
+        "Name"    : "Emon",
+        "Age"     : 17,
+        "Skill"   : "Java",
+        "Ditrics" : "Sirajganj"
+    }
+]
+
+
+
+}
