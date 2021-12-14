@@ -9,11 +9,11 @@
         
         }
 ],
-"teacher" : [
+"Phone" : [
     {
         "Name"     :"Ariful Islam",
         "Age"      : 26,
-        "Skill"    : "Python",
+        "Phone"    : "0134758952",
         "Ditrics"  :"Sirajganj"
     }
 ],
